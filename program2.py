@@ -1,5 +1,5 @@
 n = int(raw_input())
-if(n%2) == 1:
-    print("odd")
+if(n%2) == 0:
+    print("invalid")
 else:
-    print("even")
+    print("valid")
