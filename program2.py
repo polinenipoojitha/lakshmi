@@ -5,5 +5,5 @@ if(n%2 == 0):
  elif(n % 2>0):
     print("odd")
 else:
-        print("Invalid")
+    print("Invalid")
         
